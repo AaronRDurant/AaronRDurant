@@ -1,8 +1,10 @@
 ### 👋🏻 Hey, I'm Aaron.
 
-👨🏻‍💻 I'm a front-end web developer with a five-year motorsports journalism background.
+👨🏻‍💻 I'm a software developer with a five-year motorsports journalism background.
 
 🛠 I'm proficient with HTML/CSS, JavaScript, React, Angular, Gatsby, Next.js, Node.js, Git, and more.
+
+🤔 Currently, I'm focused on learning MySQL, PHP, regex, and more, but I'm always aiming to improve all around!
 
 💪🏻 My strengths include communication, problem-solving, ultra-clean code, project management, content strategy, and writing.
 
