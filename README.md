@@ -1,6 +1,4 @@
-🤘🏻
-
-### Howdy, I'm Aaron.
+### 👋🏻 Howdy, I'm Aaron.
 
 I'm a software developer, motocross racer, and writer in Michigan. I'm currently working with Next.js, updating my personal website using Gatsby, learning Python, and aiming to improve all around.
 
