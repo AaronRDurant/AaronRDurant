@@ -1,7 +1,7 @@
 # 👋🏻 Hey, I'm Aaron.
 
 🏗️ **Building, writing, and optimizing things.**  
-🏁 **Performance & UX strategist, systems thinker, and motocross athlete.**
+🏁 **Solving complex problems through UX strategy, performance insights, and systems thinking.**
 
 ## 🚀 What I'm Working On
 - **Clarkston Glass** → Building a sleek, modern Next.js website for a local business.
