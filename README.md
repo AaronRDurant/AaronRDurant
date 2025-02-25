@@ -1,21 +1,24 @@
 # 👋🏻 Hey, I'm Aaron.
 
-🏗️ **Building, writing, and optimizing things.**  
-🏁 **Solving complex problems through UX strategy, performance insights, and systems thinking.**
+🏗️ **Building, writing, and optimizing things.**
+🛠️ **Crafting intuitive web experiences through UX strategy, clear communication, and thoughtful problem-solving.**
 
 ## 🚀 What I'm Working On
-- **Clarkston Glass** → Building a sleek, modern Next.js website for a local business.
-- **Table Over Two** → Breaking down motocross mindset and strategy.
-- **Rebuilding my personal site** → Migrating from Gatsby to Next.js for better maintainability.
-- **Future projects** → Researching & prototyping high-performance tools for motocross training & analysis.
 
-## 🔍 What I Care About
-- **High-performance everything** → In both technology and human potential.
-- **Making things better** → Writing, UX, and code should all be clear and effective.
-- **Racing & competition** → The mental and physical edge that separates the best.
+- **Clarkston Glass** → Designing and developing a clean, intuitive website for a local business.
+- **Table Over Two** → Exploring motocross mindset, strategy, and performance.
+- **Rebuilding my personal site** → Migrating to Next.js for a more streamlined experience.
+- **Freelance web projects** → Helping businesses improve their online presence.
 
-## 🌎 Where to Find Me  
+## 🔍 What Drives Me
+
+- **Great user experiences** → Clear, thoughtful design makes everything better.
+- **Creative problem-solving** → Whether in code, writing, or racing, details matter.
+- **Racing & competition** → Pushing limits, refining strategy, and constant improvement.
+
+## 🌎 Where to Find Me
+
 - **Website:** [aarondurant.com](https://aarondurant.com/)
-- **X:** [@aarondurant80](https://x.com/aarondurant80)  
-- **YouTube:** [@aarondurant80](https://www.youtube.com/@aarondurant80)  
-- **Strava:** [Aaron Durant](https://www.strava.com/athletes/70892495)  
+- **X:** [@aarondurant80](https://x.com/aarondurant80)
+- **YouTube:** [@aarondurant80](https://www.youtube.com/@aarondurant80)
+- **Strava:** [Aaron Durant](https://www.strava.com/athletes/70892495)
