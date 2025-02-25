@@ -1,6 +1,6 @@
 # 👋🏻 Hey, I'm Aaron.
 
-🏗️ **Building, writing, and optimizing things.**
+🏗️ **Building, writing, and optimizing things.**  
 🛠️ **Crafting intuitive web experiences through UX strategy, clear communication, and thoughtful problem-solving.**
 
 ## 🚀 What I'm Working On
