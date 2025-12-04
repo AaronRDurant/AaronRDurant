@@ -3,7 +3,7 @@
 **Front-end engineer focused on clarity, speed, and thoughtful product design.**  
 I build interfaces that make complex systems feel simple — with an emphasis on React, Next.js, and clean, maintainable architecture.
 
-## Current Work
+## Current Projects
 - **Lucid Suspension** — Building a modern web platform for a premium dirt bike suspension service, including a customer portal for service history, job status, and streamlined intake workflows.
 - **Table Over Two** — Refining the front-end and publishing system for a Next.js + Ghost CMS publication ahead of the 2026 Supercross season.
 - **Personal Site** — Migrating from Gatsby to a leaner, faster Next.js architecture.
