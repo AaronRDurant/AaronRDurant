@@ -1,6 +1,6 @@
 # Aaron Durant
 
-**Front-end engineer focused on clarity, speed, and thoughtful product design.**
+**Front-end engineer focused on clarity, speed, and thoughtful product design.**  
 I build interfaces that make complex systems feel simple — with an emphasis on React, Next.js, and clean, maintainable architecture.
 
 ## Current Work
