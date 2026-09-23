@@ -1,24 +1,9 @@
 # Aaron Durant
 
-I'm a front-end engineer who cares about clarity, performance, and thoughtful UX.
+I've been building things on the internet since high school. In 2015 a friend and I started an IndyCar publication called [The Apex](https://www.theapex.racing/), and I wanted it to look and read a certain way, so I built it myself. That's still how I like to work — end to end, from how a thing is built to how it reads.
 
-I co-founded The Apex, a motorsports publication that taught me content systems and UX at scale. I built Table Over Two, an analysis-driven Supercross and motocross publication on a custom Next.js + Ghost stack that's earned Supercross media accreditation. Now I'm building Lucid Suspension, a dirt bike suspension service and web platform centered on a clear, modern customer experience.
+These days I mostly build and maintain websites for businesses around Metro Detroit, such as [Sidecar Slider Bar](https://sidecarsliderbar.com), [First Cut Golf](https://firstcutgolfco.com), [Clarkston Glass](https://clarkstonglass.net), and [Ryuu Sushi Lounge](https://ryuusushi.com).
 
-Same throughline: I make complex information simple and usable.
+Away from the keyboard, I race motocross because it asks more of me than anything else.
 
-**Current work**
-
-- **Lucid Suspension** — Building the business and web platform for a 2026 launch.
-  [lucidsuspension.com](https://lucidsuspension.com)
-
-- **Table Over Two** — Publishing weekly and iterating on the site.
-  [tableovertwo.com](https://tableovertwo.com)
-
-- **aarondurant.com** — Remaking the Gatsby site in Next.js as the best-fit personal site I've ever had.
-  [aarondurant.com](https://aarondurant.com)
-
-- **Freelance** — Maintaining client work and taking on new projects.
-
-Open to opportunities.
-
-[Website](https://aarondurant.com) · [LinkedIn](https://www.linkedin.com/in/aaron-durant/)
+[aarondurant.com](https://aarondurant.com) · [LinkedIn](https://www.linkedin.com/in/aaron-durant)
